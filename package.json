@@ -6,8 +6,8 @@
     "jsonwebtoken": "^8.5.1",
     "mysql2": "^2.3.3",
     "nodemon": "^2.0.16"
-  }
-  "scripts"{
+  },
+  "scripts":{
     "start":"nodemon app.js",
     "test":"echo \"Error: no test specified\" && exit 1"
   }
